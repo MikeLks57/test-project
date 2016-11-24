@@ -1,2 +1,3 @@
-<?php
-		echo "Il est " . date("H:i");
+<?php 
+echo "Il est " . date('H:i:s');
+?>
